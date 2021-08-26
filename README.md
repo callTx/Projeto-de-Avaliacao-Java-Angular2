@@ -4,3 +4,7 @@ Aplicação web que possibilite o lançamento de notas e faltas para determinar 
 
 #   Protocolo Web Service
 REST
+
+# Framework para Web Application e Microservice 
+Spring Boot Java com Apache Tomcat
+
