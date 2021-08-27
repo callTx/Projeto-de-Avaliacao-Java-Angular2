@@ -1,4 +1,4 @@
-package web.app.escola;
+package web.api.escola;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -9,3 +9,6 @@ Spring Boot Java com Apache Tomcat
 
 ## Ferramenta de Build Automation
 Maven
+
+## Abordagem dos Testes Automatizados
+Unit Testing
